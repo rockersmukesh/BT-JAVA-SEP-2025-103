@@ -27,7 +27,7 @@ A comprehensive REST API for managing travel trips with features including CRUD 
 ### Steps to Run the Application
 1. Clone the repository
 ```
- git clone https://github.com/yourusername/trip-management.git
+ git clone https://github.com/rockersmukesh/BT-JAVA-SEP-2025-103.git
 ```
 ```
 cd trip-management
